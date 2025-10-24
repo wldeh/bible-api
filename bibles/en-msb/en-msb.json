@@ -1,0 +1,21 @@
+{
+  "id": "en-msb",
+  "version": "Majority Standard Bible",
+  "description": "English: Majority Standard Bible (Bible)",
+  "scope": "Bible",
+  "language": {
+    "name": "English",
+    "code": "eng",
+    "level": "Common"
+  },
+  "country": {
+    "name": "United States of America",
+    "code": "US"
+  },
+  "numeralSystem": "Arabic",
+  "script": "Latin",
+  "archivist": "Bible Hub, Discovery Bible, OpenBible.com, Berean Bible Translation Committee",
+  "copyright": "PUBLIC DOMAIN",
+  "localVersionName": "Majority Standard Bible",
+  "localVersionAbbreviation": "MSB"
+}
