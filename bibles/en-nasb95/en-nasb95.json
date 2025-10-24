@@ -1,0 +1,21 @@
+{
+  "id": "en-nasb95",
+  "version": "New American Standard Bible (1995)",
+  "description": "English: New American Standard Bible 1995 Edition",
+  "scope": "Bible",
+  "language": {
+    "name": "English",
+    "code": "eng",
+    "level": "Common"
+  },
+  "country": {
+    "name": "United States of America",
+    "code": "US"
+  },
+  "numeralSystem": "Arabic",
+  "script": "Latin",
+  "archivist": "The Lockman Foundation",
+  "copyright": "Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977, 1995 by The Lockman Foundation",
+  "localVersionName": "New American Standard Bible (1995)",
+  "localVersionAbbreviation": "NASB95"
+}
