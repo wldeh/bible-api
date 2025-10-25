@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "book": "Psalms",
+      "chapter": "23",
+      "verse": "1",
+      "text": "A Psalm of David. Yahweh is my shepherd, I shall not want."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "23",
+      "verse": "2",
+      "text": "He makes me lie down in green pastures; He leads me beside quiet waters."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "23",
+      "verse": "3",
+      "text": "He restores my soul; He guides me in the paths of righteousness For His name’s sake."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "23",
+      "verse": "4",
+      "text": "Even though I walk through the valley of the shadow of death, I fear no evil, for You are with me; Your rod and Your staff, they comfort me."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "23",
+      "verse": "5",
+      "text": "You prepare a table before me in the presence of my enemies; You have anointed my head with oil; My cup overflows."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "23",
+      "verse": "6",
+      "text": "Surely goodness and lovingkindness will pursue me all the days of my life, And I will dwell in the house of Yahweh forever."
+    }
+  ]
+}

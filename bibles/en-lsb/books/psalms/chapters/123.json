@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "book": "Psalms",
+      "chapter": "123",
+      "verse": "1",
+      "text": "A Song of Ascents. To You I lift up my eyes, The One enthroned in the heavens!"
+    },
+    {
+      "book": "Psalms",
+      "chapter": "123",
+      "verse": "2",
+      "text": "Behold, as the eyes of slaves look to the hand of their master, As the eyes of a servant‑girl to the hand of her mistress, So our eyes look to Yahweh our God, Until He is gracious to us."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "123",
+      "verse": "3",
+      "text": "Be gracious to us, O Yahweh, be gracious to us, For we are greatly saturated with contempt."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "123",
+      "verse": "4",
+      "text": "Our soul is greatly saturated With the mockery of those who are at ease, And with the contempt of the proud."
+    }
+  ]
+}

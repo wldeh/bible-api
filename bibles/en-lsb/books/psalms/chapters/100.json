@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "book": "Psalms",
+      "chapter": "100",
+      "verse": "1",
+      "text": "A Psalm of Thanksgiving. Make a loud shout to Yahweh, all the earth."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "100",
+      "verse": "2",
+      "text": "Serve Yahweh with gladness; Come before Him with joyful songs."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "100",
+      "verse": "3",
+      "text": "Know that Yahweh, He is God; It is He who has made us, and not we ourselves; We are His people and the sheep of His pasture."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "100",
+      "verse": "4",
+      "text": "Enter His gates with thanksgiving And His courts with praise. Give thanks to Him, bless His name."
+    },
+    {
+      "book": "Psalms",
+      "chapter": "100",
+      "verse": "5",
+      "text": "For Yahweh is good; His lovingkindness endures forever And His faithfulness, generation unto generation."
+    }
+  ]
+}
