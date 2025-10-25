@@ -1,0 +1,11 @@
+{
+  "id": "lsb",
+  "name": "Legacy Standard Bible",
+  "abbreviation": "LSB",
+  "language": "en",
+  "description": "The Legacy Standard Bible (LSB) is a modern literal translation that prioritizes accuracy and consistency, using 'Yahweh' for the divine name.",
+  "copyright": "Copyright © 2021 by The Lockman Foundation. All rights reserved.",
+  "books": 66,
+  "chapters": 1189,
+  "verses": 31102
+}
