@@ -1,0 +1,21 @@
+{
+    "id": "vi-cgkpv",
+    "version": "Kinh Thánh Các Giờ Kinh Phụng Vụ",
+    "description": "Kinh Thánh Các Giờ Kinh Phụng Vụ",
+    "scope": "Bible",
+    "language": {
+        "name": "Vietnamese",
+        "code": "vie",
+        "level": "Basic"
+    },
+    "country": {
+        "name": "Viet Nam",
+        "code": "VN"
+    },
+    "numeralSystem": "",
+    "script": "Code for inherited script",
+    "archivist": "Ken Nguyen",
+    "copyright": "",
+    "localVersionName": "Kinh Thánh Các Giờ Kinh Phụng Vụ™",
+    "localVersionAbbreviation": "CGKPV"
+}
